@@ -1,4 +1,4 @@
-# 8_20_18: Introduction to R - by Tulane University R Fans (TURF)
+# 9_13_18: Introduction to R - by Tulane University R Fans (TURF)
 
 Materials and resources from our meeting on September 13, 2018. 
 
